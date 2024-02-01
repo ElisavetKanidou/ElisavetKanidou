@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h3 align="center">Hi there 👋</h3>
 <p align="center">
   <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/7dbf2e7c-1901-4836-ac7c-229c3a899205" alt="Innovation-pana" width="400">
 </p>
