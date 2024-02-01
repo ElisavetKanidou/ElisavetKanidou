@@ -19,5 +19,5 @@
 <h3 align="center" style="font-family: 'Times New Roman', Times, serif;">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,r,c,androidstudio,vscode" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=java,py,r,c,css,androidstudio,vscode" alt="My Skills">
 </p>
