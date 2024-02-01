@@ -7,9 +7,9 @@ Currently 🎓studying at [University of Macedonia](docs/CONTRIBUTING.md) - Appl
 
 📫 How to reach me:  
 
-![Demo GIF](./path/to/your/gif.gif)
 
-[![LinkedIn]((https://skillicons.dev/icons?i=linkedin))](https://www.linkedin.com/in/elisavet-kanidou-537844223/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisavet-kanidou-537844223/)
 
 
 ### Languages and Tools
