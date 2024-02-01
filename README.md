@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![Innovation-pana](https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/7dbf2e7c-1901-4836-ac7c-229c3a899205)
+
 ---
 ### About Me
 
