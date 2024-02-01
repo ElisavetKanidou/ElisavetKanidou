@@ -1,7 +1,5 @@
-<h3 align="center">Hi there 👋</h3>
-<p align="center">
-  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/8d65a311-9eec-4b9d-913f-26652b62c465" alt="Innovation-pana" width="500">
-</p>
+### Hi There 👋
+![Devices-bro](https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/c4ac44e3-f534-4ccc-87d6-b5f9d0a408a4)
 
 ---
 
