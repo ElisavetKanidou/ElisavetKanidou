@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-require "About Me"
+*** 
+About Me
 
 Currently 🎓studying at [University of Macedonia](docs/CONTRIBUTING.md) - Applied Informatics.
 💻 All of my projects are available at:   📂
