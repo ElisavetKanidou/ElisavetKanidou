@@ -1,7 +1,8 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
-  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/7dbf2e7c-1901-4836-ac7c-229c3a899205" alt="Innovation-pana" width="400">
+  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/8d65a311-9eec-4b9d-913f-26652b62c465" alt="Innovation-pana" width="400">
 </p>
+
 
 ---
 ### About Me
