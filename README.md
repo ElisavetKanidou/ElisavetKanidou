@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 <p>
   <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/2321180b-290b-4979-bd24-c2cb91e2f9ea" alt="Innovation-pana" width="350">
 </p>
