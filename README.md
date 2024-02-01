@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
-  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/9bf21ce5-8166-4589-83eb-12041b67a0235" alt="Innovation-pana" width="350">
+  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/2321180b-290b-4979-bd24-c2cb91e2f9ea" alt="Innovation-pana" width="350">
 </p>
 
 ---
