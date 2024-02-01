@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/7dbf2e7c-1901-4836-ac7c-229c3a899205" alt="Innovation-pana" width="450">
+  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/7dbf2e7c-1901-4836-ac7c-229c3a899205" alt="Innovation-pana" width="400">
 </p>
 
 ---
