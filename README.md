@@ -1,8 +1,9 @@
 <h3 align="center" style="font-family: 'Times New Roman', Times, serif;">Hi there 👋</h3>
 
 <p align="center">
-  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/eecab06f-5826-4758-9cd6-ec1b96f80d6c" alt="Innovation-pana" width="350">
+  <img src="https://github.com/ElisavetKanidou/ElisavetKanidou/assets/102418371/3fc9e5f3-b4e9-4d60-ad85-2f897a36dde7" alt="Innovation-pana" width="350">
 </p>
+
 ---
 
 <h3 align="center" style="font-family: 'Times New Roman', Times, serif;">About Me</h3>
